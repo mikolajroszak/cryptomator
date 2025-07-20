@@ -39,7 +39,7 @@
 		<cryptomator.webdav.version>2.0.0-beta4</cryptomator.webdav.version>
 
 		<!-- 3rd party dependencies -->
-		<commons-lang3.version>3.12.0</commons-lang3.version>
+		<commons-lang3.version>3.18.0</commons-lang3.version>
 		<dagger.version>2.44</dagger.version>
 		<easybind.version>2.2</easybind.version>
 		<guava.version>31.1-jre</guava.version>
